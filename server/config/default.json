@@ -1,0 +1,8 @@
+{
+    "serverPort": 8800,
+    "dbUrl": "mongodb+srv://adminUser:QR0iRwiEQ64emPi6@cluster0.acyxvky.mongodb.net/?retryWrites=true&w=majority",
+    "jwtAccessToken": "AouQzT0VN8",
+    "jwtRefreshToken": "KfnjiA@U13u1U",
+    "apiUrl": "http://localhost:8800",
+    "clientUrl": "http://localhost:3000"
+}

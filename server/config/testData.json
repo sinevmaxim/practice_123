@@ -1,0 +1,41 @@
+{
+    "register": [
+        {
+            "lastName": "Sinev",
+            "firstName": "Max",
+            "email": "testin@mail.ry",
+            "phoneNumber": "89998887766",
+            "password": "H33sss3",
+            "role": "admin"
+        },
+        {
+            "lastName": "Sinev",
+            "firstName": "Max",
+            "email": "testing1@mail.ry",
+            "phoneNumber": "89998887768",
+            "password": "123456",
+            "role": "admin"
+        }
+    ],
+    "login": [
+        {
+            "password": "123456",
+            "email": "testing1@mail.ry"
+        }
+    ],
+    "property": [
+        {
+            "bedrooms": 2,
+            "bathrooms": 3,
+            "area": 500,
+            "country": "Russia",
+            "city": "Moscow",
+            "zipcode": "110222",
+            "street": "Ul. Klounov",
+            "house": "Avenue 5",
+            "price": 300,
+            "isAvailable": true,
+            "user": "6362808dab03242442a8815a"
+        }
+    ]
+}
